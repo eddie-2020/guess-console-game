@@ -6,6 +6,7 @@ Here in this project demo I have created a guess game in C that allows users to 
 
 # Installation
 > sudo apt-get update
+
 > sudo apt install ...
 
 # Languages Used
@@ -13,19 +14,20 @@ Here in this project demo I have created a guess game in C that allows users to 
 
 # Clone Project
 ```
-  git clone git@github:oluyaratosin123...
-
+  git clone git@github.com:oluyaratosin123/Guess-Me-Right-Console-Game-C.git
 ```
+
 ```C
   cd guess_me
 ```
 
 # Author
+
 GitHub: [edward@github.com](https://github.com/oluyaratosin123)
+
 Linkedin: [edward@linkedin.com](https://www.linkedin.com/in/edward-oluyara/)
+
 Twitter: [edward@twitter.com](https://twitter.com/TOluyara)
-AngelList: [edward@angelList.com]()
-GitLab: [edward@gitLab.com]()
 
 ## Contributing :handshake:
 Contributions, issues, and feature requests are welcome!
